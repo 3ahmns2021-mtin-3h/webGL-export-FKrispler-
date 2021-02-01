@@ -1,10 +1,10 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
+First steps in WebGL 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+(OS, Unity Version, Visual Studio 2019, used SDKs)
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by FKrispler
